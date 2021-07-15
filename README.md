@@ -1,4 +1,7 @@
 # BlackJack-Group-Project
+![GUI](https://user-images.githubusercontent.com/48579650/125856971-938e7d11-37b1-4631-ade7-69ab4d804397.PNG)
+
+
 This project was done with: Java, jUnit, PHP, MySQL, Word, and Excel.
 
 Semester-long project in CS401: Software Engineering with a random group of 3 students in which we had to invent a project, then swap with another group’s project mid-semester.
