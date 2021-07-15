@@ -7,4 +7,4 @@ I invented the idea of a video game rental system, along with the business plan 
 
 Mid-semester, we swapped and took over another group's Blackjack game project, which was a multiplayer GUI based game in Java integrated with a MySQL database for user tracking and PHP website for user registration.
 
-My primary role was to function as a Project Manager (assigning responsibilities, maintaining Gantt Chart, meeting deadlines, etc). I also worked on the GUI design for the game in Java, created the PHP-based web page, and maintained a database. My teammates assisted in handling some coding responsibilities such as fleshing out the game mechanics, and in writing out the documentation to describe how the game would be implemented.
+My primary role was to function as a Full Stack Engineer & Project Manager. I worked on the GUI design for the game in Java, created the PHP-based web page, and maintained a database. My teammates assisted in handling the back-end Java coding responsibilities such as fleshing out the game mechanics, and in writing out the documentation to describe how the game would be implemented.
