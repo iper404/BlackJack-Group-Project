@@ -1,4 +1,7 @@
 # CS401VideoGameRentals
+![webpage-sample](https://user-images.githubusercontent.com/48579650/125855996-f0206bad-09fe-465a-a1e0-3303f7e9a801.PNG)
+
+
 Online Video Game Rental Service Software Engineering Project - Ivan / Avin / Yew
 
 
