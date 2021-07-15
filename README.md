@@ -1,4 +1,4 @@
-# BlackJack-Group-Project
+# CS401-BlackJack-VideoGameRentals
 ![GUI](https://user-images.githubusercontent.com/48579650/125856971-938e7d11-37b1-4631-ade7-69ab4d804397.PNG)
 
 
