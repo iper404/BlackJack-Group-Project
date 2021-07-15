@@ -1,4 +1,7 @@
 # CS401Blackjack
+![GUI](https://user-images.githubusercontent.com/48579650/125857070-3e1c8ad4-3ed8-4fa6-a0e9-62a0daf9bb5f.PNG)
+
+
 -------------------------
 Roles & Responsibilites w/ Updates: https://docs.google.com/document/d/1ecXmxuBq6DZpCjdo3T9m6PfCaqwJqNzl_P_8HXUKytE/edit?usp=sharing
 
