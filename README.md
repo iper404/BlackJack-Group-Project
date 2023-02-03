@@ -11,8 +11,3 @@ I invented the idea of a video game rental system, along with the business plan 
 Mid-semester, we swapped and took over another group's Blackjack game project, which was a multiplayer GUI based game in Java integrated with a MySQL database for user tracking and PHP website for user registration.
 
 My primary role was to function as a Full Stack Engineer & Project Manager. I worked on the GUI design for the game in Java, created the PHP-based web page, and maintained a database. My teammates assisted in handling the back-end Java coding responsibilities such as fleshing out the game mechanics, and in writing out the documentation to describe how the game would be implemented.</p>
-
-<h2 align="center">Preview</h2>
-
-![GUI](https://user-images.githubusercontent.com/48579650/125856971-938e7d11-37b1-4631-ade7-69ab4d804397.PNG)
-
